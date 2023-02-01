@@ -16,7 +16,7 @@ This is an animated solar system model implemented in Blender for the University
 
 ## Texture
 
-Texture are taken from [solarsystemscope.com](https://www.solarsystemscope.com/textures/).
+Textures are taken from [solarsystemscope.com](https://www.solarsystemscope.com/textures/).
 
 
 ## Data
